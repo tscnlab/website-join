@@ -43,6 +43,10 @@ For selected master's students, IMPRS funding covers the final master's semester
 
 [IMPRS-MMFD 2026 deadlines](https://imprs-mmfd.tuebingen.mpg.de/4082/timeline) · [PhD application requirements](https://imprs-mmfd.tuebingen.mpg.de/3776/3-year-track) · [Master's route and funding](https://imprs-mmfd.tuebingen.mpg.de/3708/application-process)
 
+## External scholarships
+
+For doctoral research in Munich / TUM, eligible applicants can consider the [BAYHOST / BTHA Bavaria scholarships for 2027/28](funding.qmd#bayhost-btha). The funding page lists the application deadline, eligible citizenships, award and application routes. A scholarship application is separate from admission to a doctoral programme and agreement on supervision.
+
 ## Applying
 
 For an advertised PhD position, follow the vacancy notice. For a structured programme, follow its eligibility criteria and application process, including any rules about contacting supervisors. An email to the unit does not replace a programme application.

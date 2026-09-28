@@ -173,12 +173,21 @@ when the verified logo and dependencies are already installed.
 
 Shared content links to the lab's [mission statement](https://www.tscnlab.org/mission-statement)
 and [contact page](https://www.tscnlab.org/contact). Funding guidance in
-`shared/content.yml` covers DAAD, Humboldt Research Fellowships, MSCA Postdoctoral
+`shared/content.yml` covers BAYHOST/BTHA, DAAD, Humboldt Research Fellowships, MSCA Postdoctoral
 Fellowships, the DFG Walter Benjamin Programme, Erasmus+, CaCTüS and TUM PREP.
-Descriptions were checked against the linked official programme pages on
-24 September 2026. Call availability, deadlines and detailed eligibility remain
+The original funding descriptions were checked against the linked official
+programme pages on 24 September 2026. Call availability, deadlines and detailed eligibility remain
 with the funder; recheck those links when revising this guidance. Hosting must be
 discussed individually, and a programme listing does not promise funding or a place.
+
+The BAYHOST/BTHA 2027/28 call was added and checked against the official pages,
+call and FAQs on 28 September 2026. Its details are maintained in the funding
+section of `shared/content.yml` at the stable `bayhost-btha` anchor; the PhD and
+research visit pages link there. Keep first-time and renewal deadlines distinct,
+and distinguish degree funding from the generally one-year limit for visits
+during a doctorate in the home country. The scheme concerns Bavaria, so the unit's
+relevant host route is Munich/TUM. Recheck the source call before updating amounts,
+eligibility or dates.
 
 ## Public disclosure and private material
 
