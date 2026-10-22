@@ -27,6 +27,13 @@ a[href^="mailto:"]{overflow-wrap:anywhere}
 
 /* Keep programme details readable alongside the wider project catalogue. */
 .programme-call{max-width:790px;margin-bottom:32px}
+/* Original white programme/institution marks retain their colours and proportions. */
+.programme-heading{display:flex;align-items:center;gap:24px;margin:32px 0 24px}
+.programme-heading h2,.programme-heading h3{margin:0}
+.programme-mark{display:flex;align-items:center;justify-content:center;flex:0 0 128px;width:128px;height:128px;background:var(--ink);border-radius:3px;print-color-adjust:exact;-webkit-print-color-adjust:exact}
+.programme-mark--tum{background:#072140}
+.programme-mark img{display:block;height:auto}
+@media(max-width:480px){.programme-heading{flex-direction:column;align-items:flex-start;gap:18px}}
 /* Always-visible navigation: the opportunity links form a nested list. */
 .site-header{align-items:flex-start}
 .brand{max-width:100%}

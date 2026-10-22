@@ -23,6 +23,8 @@ project:
     - assets/tscn-logo.png
     - assets/favicon.png
     - assets/social-preview.png
+    - assets/cactus-logo.svg
+    - assets/tum-logo.svg
     - assets/site.css
     - assets/search.js
     - CNAME

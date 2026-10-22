@@ -13,7 +13,13 @@ PhD positions in the Translational Sensory & Circadian Neuroscience Unit (MPS/TU
 
 Dates initially checked on **26 September 2026** against the linked official pages; the MLST application window was rechecked on **22 October 2026**. Check the programme's current instructions before applying; application deadlines and the year of entry are not necessarily the same.
 
-### TUM Medical Life Science and Technology (MLST)
+::: {.programme-heading}
+```{=html}
+<span class="programme-mark programme-mark--tum"><img src="assets/tum-logo.svg" alt="Technical University of Munich (TUM)" width="88" height="46"></span>
+```
+
+### TUM Medical Life Science and Technology (MLST) {#tum-medical-life-science-and-technology-mlst}
+:::
 
 **Autumn applications are open until 15 November 2026, 23:59 CET**, according to the programme's published application schedule.
 

@@ -22,7 +22,13 @@ Theses · Research internships · Erasmus+ placements · Engineering projects
 :::
 
 ::: {.programme-call}
+::: {.programme-heading}
+```{=html}
+<span class="programme-mark"><img src="assets/cactus-logo.svg" alt="CaCTüS internship programme" width="108" height="107"></span>
+```
+
 ## CaCTüS summer internships 2027 {#cactus}
+:::
 
 **Applications are open. Deadline: 16 November 2026.** The application window opened on 21 October 2026.
 
