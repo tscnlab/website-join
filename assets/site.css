@@ -25,6 +25,8 @@ a[href^="mailto:"]{overflow-wrap:anywhere}
 .text-page h3{font:600 18px/1.4 var(--sans);margin:28px 0 12px}
 @media(max-width:640px){.join-options{grid-template-columns:1fr;gap:26px;padding-top:26px}.join-option:not(:last-child){border-bottom:1px solid var(--line);padding-bottom:26px}.join-option h2{font-size:27px}}
 
+/* Keep programme details readable alongside the wider project catalogue. */
+.programme-call{max-width:790px;margin-bottom:32px}
 /* Always-visible navigation: the opportunity links form a nested list. */
 .site-header{align-items:flex-start}
 .brand{max-width:100%}

@@ -126,17 +126,23 @@ individually. Background metadata never asserts formal programme approval.
 ## Shared content and branding
 
 - `index.qmd`: the join homepage, with links to the six routes.
-- `student-projects.qmd`: the BSc/MSc project and research internship catalogue.
+- `student-projects.qmd`: the BSc/MSc project and research internship catalogue,
+  with the CaCTüS 2027 call at the stable `cactus` anchor. Its dates and portal
+  were checked on 22 October 2026. Preserve the programme's voluntary-internship
+  eligibility and portal-only application process. Funding and application
+  guidance link to this section; this does not add projects or PDF adverts.
 - `jobs.qmd`: vacancies and links to fellowship enquiries. The current vacancy
   status is in `shared/content.yml` under `en.jobs_status`, used on both the home
   and jobs pages. When adding a vacancy, update that status and include the role,
   location, deadline and official application link in `jobs.qmd`.
 - `phd.qmd`: structured doctoral programmes, source links and 2026 deadlines,
-  last checked on 26 September 2026. TUM MLST dates are derived from its published
+  initially checked on 26 September 2026; MLST was rechecked on 22 October 2026.
+  TUM MLST dates are derived from its published
   annual windows; Cognition dates refer to 2027 entry. IMPRS-MMFD distinguishes
   existing GTC doctoral students from its master's route. Recheck the official
   pages when updating dates, and keep the verification date current. Programme
   admission does not guarantee a funded position with Prof. Manuel Spitschan.
+
 - `research-visits.qmd`: short visits and links to DAAD and Erasmus+ funding.
 - `collaborations.qmd`: wildcard proposals, including artist, writer and architect
   residencies, with a clear goal and work plan.
@@ -153,6 +159,11 @@ individually. Background metadata never asserts formal programme approval.
   supplied with ReportLab.
 - `assets/tscn-logo.png`: the **unmodified canonical unit logo**, reused in both
   outputs. `assets/PROVENANCE.md` records its upstream source and SHA-256.
+
+The homepage highlights the CaCTüS 2027 and MLST autumn calls. When a call closes
+or is updated, revise its open status and dates on the homepage, its detail page
+and any funding summary, then update the content date. The site does not
+automatically change call status after a deadline.
 
 The footer displays `last_updated` from `shared/content.yml` in English or German, including in the PDFs. Update that ISO date (`YYYY-MM-DD`) when revising public content. It records the content update, not the time of a rebuild, so identical sources produce the same dated outputs.
 

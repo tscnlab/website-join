@@ -24,6 +24,8 @@ Information about joining the Translational Sensory & Circadian Neuroscience Uni
 
 BSc/MSc projects and research internships on light, sleep and circadian rhythms. Topics span experiments, evidence synthesis, engineering and social research.
 
+**CaCTüS 2027 applications are open until 16 November 2026.** [Internship call and application →](student-projects.qmd#cactus)
+
 [Browse projects →](student-projects.qmd)
 :::
 
@@ -39,6 +41,8 @@ BSc/MSc projects and research internships on light, sleep and circadian rhythms.
 ## PhD opportunities
 
 Doctoral positions are usually advertised under Jobs. Structured programmes offer additional routes, subject to supervision and funding.
+
+**MLST autumn applications are open until 15 November 2026, 23:59 CET.** [MLST application details →](phd.qmd#tum-medical-life-science-and-technology-mlst)
 
 [PhD programmes and deadlines →](phd.qmd)
 :::
