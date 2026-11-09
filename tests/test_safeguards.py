@@ -26,7 +26,7 @@ class MetadataSafety(unittest.TestCase):
             with self.assertRaisesRegex(ValueError,'no digits'): build.validate_record(self.project)
 
     def test_invalid_locations_and_formats_rejected(self):
-        for key,value in [('location',['Berlin']),('formats',['Paid job'])]:
+        for key,value in [('location',['Berlin']),('location',['Remote']),('formats',['Paid job'])]:
             record=copy.deepcopy(self.project);record[key]=value
             with self.assertRaisesRegex(ValueError,'unsupported location or format'): build.validate_record(record)
 

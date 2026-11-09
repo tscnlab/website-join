@@ -5,7 +5,6 @@ slug: tum-student-sleep
 lang: en
 location:
 - Munich
-- Remote
 formats:
 - Master's thesis
 - Research internship
@@ -42,4 +41,4 @@ Investigate students’ experiences of sleep and circadian challenges in their e
 
 ## Possible scope
 
-A thesis could address a defined empirical question. A shorter placement could review measures or analyse an agreed subset of material. Interest in student wellbeing, survey methods or qualitative research is valuable. On-site activity would be based in Munich.
+A thesis could address a defined empirical question. A shorter placement could review measures or analyse an agreed subset of material. Interest in student wellbeing, survey methods or qualitative research is valuable. The project is based in Munich and requires attendance in person.

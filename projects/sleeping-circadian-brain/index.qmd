@@ -6,7 +6,6 @@ lang: en
 location:
 - Tübingen
 - Munich
-- Remote
 formats:
 - Master's thesis
 - Research internship

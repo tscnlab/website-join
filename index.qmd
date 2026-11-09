@@ -5,7 +5,7 @@ description: Student projects, jobs, PhD opportunities, research visits and coll
 
 ::: {.home-hero}
 ::: {.eyebrow}
-TÜBINGEN · MUNICH · REMOTE
+TÜBINGEN · MUNICH
 :::
 
 ```{=html}
@@ -14,6 +14,8 @@ TÜBINGEN · MUNICH · REMOTE
 
 ::: {.hero-copy}
 Information about joining the Translational Sensory & Circadian Neuroscience Unit (MPS/TUM/TUMCREATE) for a student project, a job, doctoral research or a visit. We also consider other forms of collaboration.
+
+All opportunities require attendance in person at the agreed host location. Remote arrangements are not available.
 :::
 
 :::

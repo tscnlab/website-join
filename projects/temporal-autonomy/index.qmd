@@ -3,7 +3,7 @@ title: Who controls their time?
 subtitle: Temporal autonomy and the ability to choose when we sleep, work, eat, exercise and experience daylight.
 slug: temporal-autonomy
 lang: en
-location: [Tübingen, Munich, Remote]
+location: [Tübingen, Munich]
 formats: ["Master's thesis", Research internship, Erasmus+ research placement]
 primary-theme: Circadian health in society
 backgrounds: [Sociology, Public policy, Public health, Psychology, Geography]

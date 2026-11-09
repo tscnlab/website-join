@@ -79,15 +79,15 @@ def check():
             assert page.get_by_text('No projects match that search.').is_visible()
             page.get_by_role('button',name='Clear search and filters').click()
             assert page.locator('.project-card:visible').count() == count
-            page.get_by_label('Where would you like to work?').select_option('Remote')
+            page.get_by_label('Where would you like to work?').select_option('Tübingen')
             for card in page.locator('.project-card:visible').all():
-                assert 'Remote' in card.get_attribute('data-locations')
-            assert page.locator('.project-card:visible').count() < count
+                assert 'Tübingen' in card.get_attribute('data-locations')
+            assert 0 < page.locator('.project-card:visible').count() < count
             search.fill('Soziologie')
             assert page.locator('.project-card:visible a[href*="schlaf-gesellschaft"]').count() == 1
             page.reload(wait_until='networkidle')
             assert search.input_value() == 'Soziologie'
-            assert page.get_by_label('Where would you like to work?').input_value() == 'Remote'
+            assert page.get_by_label('Where would you like to work?').input_value() == 'Tübingen'
             page.goto(origin+'/student-projects.html?q=engineering', wait_until='networkidle')
             assert page.locator('.project-card:visible').count() > 0
             page.locator('.project-card:visible h3 a').first.click()

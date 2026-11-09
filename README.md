@@ -103,7 +103,7 @@ Validation is implemented in `scripts/build.py`. All fields below are required.
 | `title`, `subtitle` | Non-empty text; quote text containing a colon |
 | `slug` | Lowercase semantic words separated by hyphens; no digits; matches directory |
 | `lang` | `en` or `de` (Quarto's native language key) |
-| `location` | Non-empty list containing `Tübingen`, `Munich`, `Remote` |
+| `location` | Non-empty list containing `Tübingen` and/or `Munich` |
 | `formats` | Non-empty list: `Master's thesis`, `Research internship`, `Erasmus+ research placement`, `Engineering project` |
 | `primary-theme` | One of `Human photobiology`, `Measuring the environment`, `Sleep, brain and sensory function`, `Clinical translation`, `Circadian health in society` |
 | `backgrounds` | Non-empty list of relevant academic backgrounds, in the advert's language |
@@ -117,11 +117,10 @@ includes the body and all relevant discovery metadata. The primary theme is
 internal and does not divide or duplicate the displayed projects.
 
 Locations and formats describe possible arrangements, not guaranteed offers.
-The initial portfolio assigns laboratory projects to Tübingen/Munich, desk-based
-projects to those locations and remote work, and the TUM student project to
-Munich/remote. These are planning assumptions to confirm with the relevant
-supervisor. The website states that final location, timing and scope are agreed
-individually. Background metadata never asserts formal programme approval.
+All projects and internships take place on site in Tübingen or Munich; remote
+options are not offered. The TUM student project is based in Munich. The final
+host location, timing and scope are agreed with the relevant supervisor.
+Background metadata never asserts formal programme approval.
 
 ## Shared content and branding
 

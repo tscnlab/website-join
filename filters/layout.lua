@@ -15,7 +15,6 @@ function Pandoc(doc)
     for _, v in ipairs(values) do
       local s = stringify(v)
       if lang == 'de' and s == 'Munich' then s = 'München' end
-      if lang == 'de' and s == 'Remote' then s = 'Remote' end
       table.insert(out, s)
     end
     return table.concat(out, ' · ')

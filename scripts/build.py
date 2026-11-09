@@ -26,7 +26,7 @@ GEN = ROOT / '_generated'
 LOGO = ROOT / 'assets/tscn-logo.png'
 LOGO_URL = 'https://raw.githubusercontent.com/tscnlab/Templates/main/logo/logo_with_text-01.png'
 LOGO_SHA = 'ad721549a8fd502f376ead0afa3426265bca46491607bfea3043db5e7dbb6ee3'
-LOCATIONS = {'Tübingen', 'Munich', 'Remote'}
+LOCATIONS = {'Tübingen', 'Munich'}
 FORMATS = {"Master's thesis", 'Research internship', 'Erasmus+ research placement', 'Engineering project'}
 THEMES = {'Human photobiology', 'Measuring the environment', 'Sleep, brain and sensory function', 'Clinical translation', 'Circadian health in society'}
 REQUIRED = {'title', 'subtitle', 'slug', 'lang', 'location', 'formats', 'primary-theme', 'backgrounds', 'methods', 'status', 'disclosure'}
@@ -165,7 +165,7 @@ def prepare() -> None:
     catalogue = f'''```{{=html}}
 <section aria-labelledby="browse-title">
 <div class="browse-heading"><h2 id="browse-title">Available projects</h2><span class="result-count" id="result-count" role="status" aria-live="polite">{len(cards)} projects</span></div>
-<div class="search-controls"><div class="field"><label for="project-search">Find a question, method or field of study</label><input id="project-search" type="search" placeholder="Try psychology, light, engineering…" aria-describedby="search-help" autocomplete="off"></div><div class="field"><label for="location-filter">Where would you like to work?</label><select id="location-filter"><option value="">All locations</option><option>Tübingen</option><option>Munich</option><option>Remote</option></select></div></div>
+<div class="search-controls"><div class="field"><label for="project-search">Find a question, method or field of study</label><input id="project-search" type="search" placeholder="Try psychology, light, engineering…" aria-describedby="search-help" autocomplete="off"></div><div class="field"><label for="location-filter">Where would you like to work?</label><select id="location-filter"><option value="">All locations</option><option>Tübingen</option><option>Munich</option></select></div></div>
 <p id="search-help" class="search-help">Search across titles, methods and suitable backgrounds. Locations and scope are agreed individually.</p>
 <noscript><p>All projects are listed below. Search and location filtering require JavaScript.</p></noscript>
 <div class="project-grid">{''.join(cards)}</div>

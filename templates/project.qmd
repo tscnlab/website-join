@@ -3,7 +3,7 @@ title: 'Replace with a compelling research question'
 subtitle: 'Replace with a concise explanation of the focus.'
 slug: your-semantic-slug
 lang: en
-location: [Tübingen, Munich, Remote]
+location: [Tübingen, Munich]
 formats: ["Master's thesis", Research internship, Erasmus+ research placement]
 primary-theme: Circadian health in society
 backgrounds: [Public health, Psychology]

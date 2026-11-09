@@ -5,7 +5,7 @@ description: Student theses, research internships, Erasmus+ placements and engin
 
 ::: {.home-hero}
 ::: {.eyebrow}
-TÜBINGEN · MUNICH · REMOTE
+TÜBINGEN · MUNICH
 :::
 
 ```{=html}
@@ -15,7 +15,7 @@ TÜBINGEN · MUNICH · REMOTE
 ::: {.hero-copy}
 Research on light, sleep and circadian rhythms. Projects include human experiments, evidence synthesis, engineering and social research. Scope and suitability for BSc or MSc requirements are agreed individually.
 
-**We generally do not accept remote internships.** Internships normally require attendance in person at the agreed host location.
+**All projects and internships require attendance in person at the agreed host location.** Remote arrangements are not available.
 :::
 
 ::: {.hero-foot}
