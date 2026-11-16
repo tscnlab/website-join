@@ -11,7 +11,7 @@ PhD positions in the Translational Sensory & Circadian Neuroscience Unit (MPS/TU
 
 ## Structured programmes: 2026 deadlines
 
-Dates initially checked on **26 September 2026** against the linked official pages; the MLST application window was rechecked on **22 October 2026**. Check the programme's current instructions before applying; application deadlines and the year of entry are not necessarily the same.
+Dates initially checked on **26 September 2026** against the linked official pages; the MLST application window was rechecked on **16 November 2026**. Check the programme's current instructions before applying; application deadlines and the year of entry are not necessarily the same.
 
 ::: {.programme-heading}
 ```{=html}
@@ -21,16 +21,16 @@ Dates initially checked on **26 September 2026** against the linked official pag
 ### TUM Medical Life Science and Technology (MLST) {#tum-medical-life-science-and-technology-mlst}
 :::
 
-**Autumn applications are open until 15 November 2026, 23:59 CET**, according to the programme's published application schedule.
+**Applications for the autumn 2026 round are closed.** The deadline was 15 November 2026, 23:59 CET. See the programme's application instructions for future application windows.
 
 The programme publishes two annual application windows. The corresponding dates for 2026 are:
 
-- **Autumn: 15 October–15 November 2026, closing at 23:59 CET.** If you need a TUM Guest ID, request it between 1 October and **10 November 2026, 23:59 CET**.
+- **Autumn: 15 October–15 November 2026, closing at 23:59 CET (closed).** The TUM Guest ID request window ran from 1 October to **10 November 2026, 23:59 CET**.
 - **Spring: 15 April–15 May 2026, closing at 23:59 CEST (closed).** The Guest ID deadline was 10 May.
 
-Apply through DocGS. MLST does not provide its own funding: the research group must confirm funding, and final admission requires a laboratory position.
+Applications are submitted through DocGS during the programme's application windows. MLST does not provide its own funding: the research group must confirm funding, and final admission requires a laboratory position.
 
-[MLST application instructions and DocGS access →](https://mgc.mh.tum.de/en/node/3909) · [Request a TUM Guest ID](https://mgc.mh.tum.de/de/tum-guest-id)
+[MLST application instructions and DocGS access →](https://mgc.mh.tum.de/en/node/3909) · [TUM Guest ID guidance](https://mgc.mh.tum.de/de/tum-guest-id)
 
 ### Max Planck School of Cognition
 

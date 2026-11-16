@@ -135,7 +135,8 @@ Background metadata never asserts formal programme approval.
   and jobs pages. When adding a vacancy, update that status and include the role,
   location, deadline and official application link in `jobs.qmd`.
 - `phd.qmd`: structured doctoral programmes, source links and 2026 deadlines,
-  initially checked on 26 September 2026; MLST was rechecked on 22 October 2026.
+  initially checked on 26 September 2026; MLST was rechecked on 16 November 2026
+  and its autumn 2026 round is marked closed on the homepage and programme page.
   TUM MLST dates are derived from its published
   annual windows; Cognition dates refer to 2027 entry. IMPRS-MMFD distinguishes
   existing GTC doctoral students from its master's route. Recheck the official
