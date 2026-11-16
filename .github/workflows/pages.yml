@@ -15,7 +15,8 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Playwright 1.55 supports Ubuntu 24.04; ubuntu-latest may move beyond it.
+    runs-on: ubuntu-24.04
     permissions:
       contents: read
       pages: read

@@ -267,6 +267,9 @@ review. Page-count and text checks do not replace visual inspection.
 
 The repository includes `.github/workflows/pages.yml`:
 
+The build job uses Ubuntu 24.04, which is supported by the pinned Playwright
+1.55 browser checks. Review runner compatibility when updating Playwright.
+
 1. Pull requests and pushes to `main` install pinned Python dependencies and
    Quarto, validate sources and the logo, render HTML, generate all PDFs, and run
    output, regression and browser checks.
